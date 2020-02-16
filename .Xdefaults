@@ -1,0 +1,74 @@
+! $OpenBSD: dot.Xdefaults,v 1.3 2014/07/10 10:22:59 jasper Exp $
+XTerm*loginShell:true
+xterm*termName: xterm-256color
+xterm*geometry: 133x36
+xterm*utf8: 1
+xterm*locale: true
+xterm*font: -misc-fixed-medium-*-*-14-*
+
+xterm*foreground: rgb:a7/a7/a7
+xterm*background: rgb:1c/20/23
+xterm*color0: rgb:2e/34/36
+xterm*color1: rgb:a5/42/42
+xterm*color2: rgb:8c/94/40
+xterm*color3: rgb:de/93/5f
+xterm*color4: rgb:5f/81/9d
+xterm*color5: rgb:85/67/8f
+xterm*color6: rgb:5e/8d/87
+xterm*color7: rgb:c5/c8/c6
+xterm*color8: rgb:55/57/53
+xterm*color9: rgb:cc/66/66
+xterm*color10: rgb:b5/bd/68
+xterm*color11: rgb:f0/c6/74
+xterm*color12: rgb:81/a2/be
+xterm*color13: rgb:b2/94/bb
+xterm*color14: rgb:8a/be/b7
+xterm*color15: rgb:e1/e1/e1
+
+! URxvt
+URxvt*saveline: 15000
+URxvt*termName: rxvt-256color
+URxvt*iso14755: false
+URxvt*depth: 32
+URxvt*foreground: #a7a7a7
+URxvt*background: #1C2023
+URxvt*scrollBar: false
+URxvt*scrollBar_right: false
+URxvt*internalBorder: 0
+URxvt*externalBorder: 0
+!URxvt*letterSpace: -1
+!URxvt.font: xft:Hack:size=10
+!URxvt.font: xft:DejaVu Sans Mono:size=10
+URxvt.copyCommand: xclip -i -selection clipboard
+URxvt.pasteCommand: xclip -o -selection clipboard
+URxvt.keysym.m-c: perl:clipboard:copy
+URxvt.keysym.m-v: perl:clipboard:paste
+URxvt.urlLauncher: exo-open
+URxvt.underlineURLs: true
+URxvt.urlButton: 1
+URxvt.geometry: 90x30
+URxvt.tabbed.tabbar-fg: 4
+URxvt.tabbed.tabbar-bg: 16
+URxvt.tabbed.tab-fg: 15
+URxvt.tabbed.tab-bg: 4
+URxvt*buffered: false
+URxvt.cursorBlink: true
+URxvt*color0:  #2e3436
+URxvt*color1:  #a54242
+URxvt*color2:  #8c9440
+URxvt*color3:  #de935f
+URxvt*color4:  #5f819d
+URxvt*color5:  #85678f
+URxvt*color6:  #5e8d87
+URxvt*color7:  #c5c8c6
+URxvt*color8:  #555753
+URxvt*color9:  #cc6666
+URxvt*color10: #b5bd68
+URxvt*color11: #f0c674
+URxvt*color12: #81a2be
+URxvt*color13: #b294bb
+URxvt*color14: #8abeb7
+URxvt*color15: #e1e1e1
+
+emacs.geometry:=120x48-30+10
+emacs.font: Monospace:size=12

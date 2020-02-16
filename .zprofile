@@ -1,0 +1,1 @@
+export PATH=$(cat /home/geir/Dokumenter/path.txt)

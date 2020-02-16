@@ -1,1 +1,2 @@
 # NetBSD
+dotfiles for NetBSD
