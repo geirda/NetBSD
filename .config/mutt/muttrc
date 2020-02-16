@@ -1,4 +1,4 @@
-set from = "geirda@outlook.com"
-set realname = "Geir Damstuen"
+set from = "name@change.this"
+set realname = "Not My Realname"
 
 source ~/.config/mutt/color.muttrc
