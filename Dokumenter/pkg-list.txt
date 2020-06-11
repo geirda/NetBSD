@@ -1,44 +1,44 @@
+cmatrix-1.2anb2     Simulates the display from "The Matrix" in your console
+conky-1.9.0nb34     Free, light-weight system monitor for X
 cwm-6.3             Portable version of the window manager from OpenBSD
+dbus-glib-0.110     GLib bindings for the D-BUS message bus system
+dejavu-ttf-2.37     DejaVu family of TrueType fonts
+doas-6.2p2nb1       Execute commands as another user
+exa-0.9.0           Replacement for ls(1) written in Rust
+ffmpeg3-3.4.6nb3    Decoding, encoding and streaming software (v3.x)
+firefox68-68.4.1    Web browser with support for extensions (version 68)
+gcc49-4.9.4nb8      The GNU Compiler Collection (GCC) - 4.9 Release Series
+gcc49-libs-4.9.4nb8 The GNU Compiler Collection (GCC) support shared libraries
+git-2.24.1          GIT version control suite meta-package
+gtk2+-2.24.32nb11   GIMP Toolkit v2 - libraries for building X11 user interfaces
+gtk3+-3.24.12       GIMP Toolkit v3 - libraries for building X11 user interfaces
+Hack-ttf-3.003      Typeface designed for source code
+htop-2.2.0nb1       Enhanced version of top utility
 icu-64.2nb1         Robust and full-featured Unicode services
+libIDL-0.8.14nb4    CORBA Interface Definition Language parser
+libvpx-1.8.1nb1     On2 VP8 library from Google
+links-2.20.2        Lynx-like text WWW browser
 lynis-2.6.2         Perform security health scans for Linux, macOS, and Unix
+most-5.0.0anb6      Pager (like less) which has support for windows and binary files
+mozilla-rootcerts-openssl-2.3 Wedge for installing and managing mozilla-rootcerts
+nano-4.4            Small and friendly text editor (a free replacement for Pico)
+neomutt-20191129    Fork of mutt with integrated community patches
+nnn-2.8.1           Optimized, feature-packed terminal file manager
+nspr-4.24           Platform-neutral API for system level and libc like functions
+nss-3.49.1          Libraries to support development of security-enabled applications
+pam-passwdqc-1.1.4  Password strength checker
+pkgin-0.14.0        Apt / yum like tool for managing pkgsrc binary packages
 salt-2019.2.2       Remote execution and configuration management system
+screenfetch-3.9.0   Fetches system/theme information in terminal for screenshots
+sudo-1.8.31         Allow others to run commands as root
+tcl-8.6.9nb2        Tool Command Language, a dynamic language
+terminus-font-4.48  Clean, fixed-width font
+tmux-2.9anb1        BSD-licensed terminal multiplexer (GNU Screen alternative)
+vim-8.1.2200nb1     Vim editor (vi clone) without GUI
+weechat-2.7.1       Lightweight and user friendly curses based IRC client
+zip-3.0nb3          Create/update ZIP files compatible with pkzip
 zsh-5.7.1nb1        The Z shell
+zsh-autosuggestions-0.6.3 Fish-like autosuggestions for Zsh
+zsh-completions-0.27.0 Additional completion definitions for zsh
 zsh-pure-1.6.0      Pretty, minimal, and fast Zsh prompt
 zsh-syntax-highlighting-0.6.0 Fish shell like syntax highlighting for Zsh
-zsh-completions-0.27.0 Additional completion definitions for zsh
-nano-4.4            Small and friendly text editor (a free replacement for Pico)
-doas-6.2p2nb1       Execute commands as another user
-git-2.24.1          GIT version control suite meta-package
-nspr-4.24           Platform-neutral API for system level and libc like functions
-exa-0.9.0           Replacement for ls(1) written in Rust
-vim-8.1.2200nb1     Vim editor (vi clone) without GUI
-nss-3.49.1          Libraries to support development of security-enabled applications
-gtk3+-3.24.12       GIMP Toolkit v3 - libraries for building X11 user interfaces
-screenfetch-3.9.0   Fetches system/theme information in terminal for screenshots
-weechat-2.7.1       Lightweight and user friendly curses based IRC client
-terminus-font-4.48  Clean, fixed-width font
-pkgin-0.14.0        Apt / yum like tool for managing pkgsrc binary packages
-tcl-8.6.9nb2        Tool Command Language, a dynamic language
-libvpx-1.8.1nb1     On2 VP8 library from Google
-zip-3.0nb3          Create/update ZIP files compatible with pkzip
-conky-1.9.0nb34     Free, light-weight system monitor for X
-gcc49-libs-4.9.4nb8 The GNU Compiler Collection (GCC) support shared libraries
-nnn-2.8.1           Optimized, feature-packed terminal file manager
-libIDL-0.8.14nb4    CORBA Interface Definition Language parser
-sudo-1.8.31         Allow others to run commands as root
-firefox68-68.4.1    Web browser with support for extensions (version 68)
-gtk2+-2.24.32nb11   GIMP Toolkit v2 - libraries for building X11 user interfaces
-gcc49-4.9.4nb8      The GNU Compiler Collection (GCC) - 4.9 Release Series
-dbus-glib-0.110     GLib bindings for the D-BUS message bus system
-htop-2.2.0nb1       Enhanced version of top utility
-dejavu-ttf-2.37     DejaVu family of TrueType fonts
-cmatrix-1.2anb2     Simulates the display from "The Matrix" in your console
-most-5.0.0anb6      Pager (like less) which has support for windows and binary files
-ffmpeg3-3.4.6nb3    Decoding, encoding and streaming software (v3.x)
-pam-passwdqc-1.1.4  Password strength checker
-Hack-ttf-3.003      Typeface designed for source code
-mozilla-rootcerts-openssl-2.3 Wedge for installing and managing mozilla-rootcerts
-links-2.20.2        Lynx-like text WWW browser
-tmux-2.9anb1        BSD-licensed terminal multiplexer (GNU Screen alternative)
-neomutt-20191129    Fork of mutt with integrated community patches
-zsh-autosuggestions-0.6.3 Fish-like autosuggestions for Zsh
