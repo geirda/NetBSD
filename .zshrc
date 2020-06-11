@@ -16,7 +16,7 @@ compinit
 source /usr/pkg/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/pkg/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #PS1='%B%F{green}%n@%m %B%F{blue}%~%F{reset}%b> '
-PS1='%B%F{green}>%B%F{blue}%~%F{reset}%b> '
+PS1='%B%F{blue}%~ %F{green}>%F{reset}%b '
 
 # Aliases
 alias 'ls=exa --group-directories-first'

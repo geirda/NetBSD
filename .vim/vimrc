@@ -18,25 +18,24 @@ endif
 source /usr/pkg/share/vim/vim81/defaults.vim
 
 set number
+set nobackup
 set laststatus=2
 set t_Co=256
-" set statusline=%<%f\%h%m%r%=%-20.(line=%l\ \ col=%c%V\ \ totlin=%L%)\ \ \%h%m%r%=%-40(bytval=0x%B,%n%Y%)\%P
-let g:airline_theme='angr'
+set cursorline
+set wildmenu
+set wildmode=longest:full,full
+
+let g:lightline = {'colorscheme':'regularis'}
+
+colo koehler
 
 hi LineNr ctermfg=242
-hi CursorLineNr ctermfg=15
+hi CursorLine ctermbg=235 cterm=bold
+hi CursorLineNr ctermfg=248 ctermbg=235 cterm=bold
 hi VertSplit ctermfg=8 ctermbg=0
 hi Statement ctermfg=3
 hi StatusLine ctermbg=11 ctermfg=0
-
-if has("vms")
-  set nobackup		" do not keep a backup file, use versions instead
-else
-  set backup		" keep a backup file (restore to previous version)
-  if has('persistent_undo')
-    set undofile	" keep an undo file (undo changes after closing)
-  endif
-endif
+hi WildMenu term=standout cterm=bold ctermbg=Green ctermfg=Black
 
 if &t_Co > 2 || has("gui_running")
   " Switch on highlighting the last used search pattern.
