@@ -1,1 +1,12 @@
-command firefox /usr/pkg/bin/firefox60
+fontname "-misc-fixed-medium-*-*-14-*"
+
+bind-key CM-Return xterm
+bind-key CM-s firefox68
+bind-key CMS-q quit
+bind-key CMS-r restart
+
+command firefox /usr/pkg/bin/firefox68
+
+borderwidth 1
+color activeborder "#a7a7a7"
+color inactiveborder "#555753"
