@@ -9,7 +9,8 @@ color menufg "#a7a7a7"
 gap 19 5 5 5
 borderwidth 1
 
-# Window management (C = ctrl, M = meta, 4 = super, S = shift)
+# Window management
+# (C = ctrl, M = meta, 4 = super, S = shift)
 bind-key CMS-q quit
 bind-key CMS-r restart
 bind-key 4S-q window-close
