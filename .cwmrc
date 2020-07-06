@@ -1,5 +1,5 @@
 # Appearance
-fontname "Hack:pixelsize=12"
+fontname "Hack:pixelsize=12:normal"
 color activeborder "#a7a7a7"
 color inactiveborder "#555753"
 color font "#de935f"
@@ -18,7 +18,8 @@ bind-key 4-f window-fullscreen
 bind-key 4-m window-maximize
 bind-key 4-h window-hmaximize
 bind-key 4-v window-vmaximize
-bind-key 4-t window-vtile
+bind-key 4-i window-htile
+bind-key 4-o window-vtile
 
 # Window movement
 moveamount 10
