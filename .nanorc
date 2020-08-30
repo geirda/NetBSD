@@ -6,6 +6,6 @@ set titlecolor brightwhite,blue
 set statuscolor brightwhite,cyan
 set errorcolor brightwhite,red
 set selectedcolor brightwhite,magenta
-set numbercolor blue
+set numbercolor brightblack
 set keycolor cyan
 set functioncolor green
