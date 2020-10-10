@@ -1,13 +1,13 @@
 # Appearance
 fontname "Hack:pixelsize=12:normal"
-color activeborder "#a7a7a7"
+color activeborder "#6796a2"
 color inactiveborder "#555753"
 color font "#de935f"
 color selfont "#000000"
 color menubg "#2e3436"
 color menufg "#a7a7a7"
 gap 19 5 5 5
-borderwidth 1
+borderwidth 2
 
 # Window management
 # (C = ctrl, M = meta, 4 = super, S = shift)
